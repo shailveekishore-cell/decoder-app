@@ -13,9 +13,8 @@ Decoder is a native iOS application built using Swift and SwiftUI. It is designe
 - **IDE:** Xcode
 - **Architecture:** Modular Swift files including custom error analysis routing (`ErrorAnalyzer.swift`) and upcoming external service integrations (`OpenAIService.swift`).
 
-## 📸 Interface Preview
-  ![Decoder App Screenshot
+  
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 - Implement automated API endpoints using the `OpenAIService` module to parse errors in real-time using AI models.
 - Add an expanded offline database of common regional university Computer Science 101 error codes.
