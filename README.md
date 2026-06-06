@@ -7,7 +7,7 @@ Decoder is a native iOS application built using Swift and SwiftUI. It is designe
 - **Clean UI/UX:** Built with a modern, minimalist dark/light responsive interface utilizing SwiftUI gradients and intuitive user controls.
 - **Error Breakdown:** Dedicated inputs allowing users to paste full error logs to receive immediate contextual clarity.
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 - **Language:** Swift 5
 - **Framework:** SwiftUI & UIKit
 - **IDE:** Xcode
